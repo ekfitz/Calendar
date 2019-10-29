@@ -1,0 +1,211 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: none;
+  background-color: #171717;
+  overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.calendar {
+  position: absolute;
+  width: 90%;
+  height: 90vh;
+  top: 5vh;
+  left: 5%;
+}
+
+.dayboxw1 {
+  position: absolute;
+  width: 14.29%;
+  height: 20%;
+  top: 0%;
+  border-radius: 0.5em;
+  border: solid blue;
+}
+
+.dayboxw2 {
+  position: absolute;
+  width: 14.29%;
+  height: 20%;
+  top: 20%;
+  border-radius: 0.5em;
+  border: solid white;
+}
+
+.dayboxw3 {
+  position: absolute;
+  width: 14.29%;
+  height: 20%;
+  top: 40%;
+  border-radius: 0.5em;
+  border: solid pink;
+}
+
+.dayboxw4 {
+  position: absolute;
+  width: 14.29%;
+  height: 20%;
+  top: 60%;
+  border-radius: 0.5em;
+  border: solid green;
+}
+
+.dayboxw5 {
+  position: absolute;
+  width: 14.29%;
+  height: 20%;
+  top: 80%;
+  border-radius: 0.5em;
+  border: solid red;
+}
+
+.datetext {
+  position: absolute;
+  font-size: 3em;
+  color: white;
+  top: 1%;
+  left: 1%;
+}
+
+#dbox1 {
+  left: 0%;
+}
+
+#dbox2 {
+  left: 14.29%;
+}
+
+#dbox3 {
+  left: 28.58%;
+}
+
+#dbox4 {
+  left: 42.87%;
+}
+
+#dbox5 {
+  left: 57.16%;
+}
+
+#dbox6 {
+  left: 71.45%;
+}
+
+#dbox7 {
+  left: 85.74%;
+}
+
+#dbox8 {
+  left: 0%;
+}
+
+#dbox9 {
+  left: 14.29%;
+}
+
+#dbox10 {
+  left: 28.58%;
+}
+
+#dbox11 {
+  left: 42.87%;
+}
+
+#dbox12 {
+  left: 57.16%;
+}
+
+#dbox13 {
+  left: 71.45%;
+}
+
+#dbox14 {
+  left: 85.74%;
+}
+
+#dbox15 {
+  left: 0%;
+}
+
+#dbox16 {
+  left: 14.29%;
+}
+
+#dbox17 {
+  left: 28.58%;
+}
+
+#dbox18 {
+  left: 42.87%;
+}
+
+#dbox19 {
+  left: 57.16%;
+}
+
+#dbox20 {
+  left: 71.45%;
+}
+
+#dbox21 {
+  left: 85.74%;
+}
+
+#dbox22 {
+  left: 0%;
+}
+
+#dbox23 {
+  left: 14.29%;
+}
+
+#dbox24 {
+  left: 28.58%;
+}
+
+#dbox25 {
+  left: 42.87%;
+}
+
+#dbox26 {
+  left: 57.16%;
+}
+
+#dbox27 {
+  left: 71.45%;
+}
+
+#dbox28 {
+  left: 85.74%;
+}
+
+#dbox29 {
+  left: 0%;
+}
+
+#dbox30 {
+  left: 14.29%;
+}
+
+#dbox31 {
+  left: 28.58%;
+}
+
+#dbox32 {
+  left: 42.87%;
+}
+
+#dbox33 {
+  left: 57.16%;
+}
+
+#dbox34 {
+  left: 71.45%;
+}
+
+#dbox35 {
+  left: 85.74%;
+}
