@@ -68,3 +68,25 @@ var dbox32 = document.getElementById("dbox32");
 var dbox33 = document.getElementById("dbox33");
 var dbox34 = document.getElementById("dbox34");
 var dbox35 = document.getElementById("dbox35");
+
+var res1 = document.getElementById("res1");
+var res2 = document.getElementById("res2");
+var res3 = document.getElementById("res3");
+var res4 = document.getElementById("res4");
+var res5 = document.getElementById("res5");
+var res6 = document.getElementById("res6");
+var res7 = document.getElementById("res7");
+var res8 = document.getElementById("res8");
+var res9 = document.getElementById("res9");
+var res10 = document.getElementById("res10");
+
+var overres1 = document.getElementById("overres1");
+var overres2 = document.getElementById("overres2");
+var overres3 = document.getElementById("overres3");
+var overres4 = document.getElementById("overres4");
+var overres5 = document.getElementById("overres5");
+var overres6 = document.getElementById("overres6");
+var overres7 = document.getElementById("overres7");
+var overres8 = document.getElementById("overres8");
+var overres9 = document.getElementById("overres9");
+var overres10 = document.getElementById("overres10");

@@ -113,5 +113,12 @@ largeFont(dbox32, dtext32);
 largeFont(dbox33, dtext33);
 largeFont(dbox34, dtext34);
 
-//highLight(d1, dbox1);
-//highLight(d31, dbox31);
+resDiv(s1, res1, z1);
+resDiv(s2, res2, z2);
+resDiv(s3, res3, z3);
+resDiv(s4, res4, z4);
+
+marginTop(r1, res1);
+marginTop(r2, res2);
+marginTop(r3, res3);
+marginTop(r4, res4);

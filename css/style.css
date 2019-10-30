@@ -19,8 +19,8 @@ body {
 
 .dayboxw1 {
   position: absolute;
-  width: 13%;
-  height: 18%;
+  width: 13.5%;
+  height: 18.5%;
   top: 0%;
   border-radius: 0.5em;
   border: solid purple;
@@ -29,8 +29,8 @@ body {
 
 .dayboxw2 {
   position: absolute;
-  width: 13%;
-  height: 18%;
+  width: 13.5%;
+  height: 18.5%;
   top: 20%;
   border-radius: 0.5em;
   border: solid purple;
@@ -39,8 +39,8 @@ body {
 
 .dayboxw3 {
   position: absolute;
-  width: 13%;
-  height: 18%;
+  width: 13.5%;
+  height: 18.5%;
   top: 40%;
   border-radius: 0.5em;
   border: solid purple;
@@ -49,8 +49,8 @@ body {
 
 .dayboxw4 {
   position: absolute;
-  width: 13%;
-  height: 18%;
+  width: 13.5%;
+  height: 18.5%;
   top: 60%;
   border-radius: 0.5em;
   border: solid purple;
@@ -59,8 +59,8 @@ body {
 
 .dayboxw5 {
   position: absolute;
-  width: 13%;
-  height: 18%;
+  width: 13.5%;
+  height: 18.5%;
   top: 80%;
   border-radius: 0.5em;
   border: solid purple;
@@ -73,6 +73,22 @@ body {
   color: white;
   top: 5%;
   left: 5%;
+}
+
+.reserve {
+  position: absolute;
+  height: 5%;
+  margin-left: 2.5%;
+  border-radius: 1em;
+  background-color: blue;
+}
+
+.resover {
+  position: absolute;
+  height: 5%;
+  left: 0%;
+  border-radius: 1em;
+  background-color: blue;
 }
 
 #dbox1 {
